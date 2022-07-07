@@ -1,0 +1,31 @@
+.travelmainDiv{
+    border: 1px solid lightgray;
+}
+.travelmainDiv img{
+    width: 100%
+}
+.travelmainDiv h5 , .travelmainDiv p{
+    margin: 20px;
+}
+.achieved{
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
+.achieved i{
+    float: right;
+}
+.achieved span{
+    color: orange;
+}
+h4{
+    font-size: 50px;
+}
+p{
+    font-size: 20px;
+}
+#contact iframe
+{
+    width: 100%;
+}
